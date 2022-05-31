@@ -104,7 +104,7 @@ while True:
         quit_game = True
         break
 
-# If not Quit, place Game Over text
+# If not Quit, placing Game Over text
 if not quit_game:
     cv2.putText(frame, "Game Over", (165, 200), font, 3, (100, 100, 100), 20, cv2.LINE_AA)
     cv2.putText(frame, "Game Over", (165, 200), font, 3, (255, 255, 255), 6, cv2.LINE_AA)
