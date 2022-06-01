@@ -1,5 +1,5 @@
 # OpenCV Pong Game
-Hand tracking personal project.
+Hand tracking.
 
 
 <img src="https://raw.githubusercontent.com/KovalevCG/opencv-pong-game/master/gif/screen_02.jpg" width="600">
